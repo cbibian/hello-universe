@@ -1,2 +1,2 @@
 # hello-universe
-A simple, generic repository
+A simple, generic repository for testing
